@@ -1,0 +1,12 @@
+streamlit
+pandas
+joblib
+requests
+plotly
+deep-translator
+SpeechRecognition
+groq
+pandas
+scikit-learn
+joblib
+
